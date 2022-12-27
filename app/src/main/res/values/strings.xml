@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To Do List</string>
+
+    <string name="add_task">Add Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="apply">Apply</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="edit">Edit</string>
+    <string name="choose_a_category">Choose a category</string>
+    <string name="create">Create</string>
+
+    <string-array name="categories">
+        <item>Shopping</item>
+        <item>Work Tasks</item>
+    </string-array>
+</resources>
